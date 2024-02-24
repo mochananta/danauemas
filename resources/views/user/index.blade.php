@@ -22,7 +22,7 @@
 				</div>
 				<!-- End Single Slider -->
 				<!-- Start Single Slider -->
-				<div class="single-slider" style="background-image:url('{{ asset('user/img/slider.jpg')}}')"> 
+				<div class="single-slider" style="background-image:url('{{ asset('user/img/slider1.png')}}')"> 
 					<div class="container">
 						<div class="row">
 							<div class="col-lg-7">
