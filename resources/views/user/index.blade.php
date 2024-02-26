@@ -763,5 +763,5 @@
 				</div>
 			</div>
 		</section>
-		<!-- /End Newsletter Area -->
+		<!-- /End Newsletter Area -->  
 @endsection

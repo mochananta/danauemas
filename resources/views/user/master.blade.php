@@ -41,7 +41,7 @@
         <link rel="stylesheet" href="{{ asset('user/css/normalize.css')}}">  
         <link rel="stylesheet" href="{{ asset('user/style.css')}}">
         <link rel="stylesheet" href="{{ asset('user/css/responsive.css')}}">
-		
+
     </head>
     <body>
 	
