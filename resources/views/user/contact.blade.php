@@ -27,7 +27,7 @@
 						<div class="col-lg-6">
 							<div class="contact-us-left">
 								<!--Start Google-map -->
-								<div id="myMap"></div>
+								<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3948.7916232474254!2d114.36951647390954!3d-8.223698882541159!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd15baf0784fcfb%3A0x2e1cbb1f678fed8e!2sPT%20DANAU%20EMAS%20GADAI%20JATIM%20BANYUWANGI!5e0!3m2!1sid!2sid!4v1708770152669!5m2!1sid!2sid" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 								<!--/End Google-map -->
 							</div>
 						</div>
