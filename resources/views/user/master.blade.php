@@ -10,7 +10,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 		
 		<!-- Title -->
-        <title>Pt. Danau Emas Gadai Jatim- Cabang Banyuwangi</title>
+        <title>PT. Danau Emas Gadai Jatim- Cabang Banyuwangi</title>
 		
 		<!-- Favicon -->
         <link rel="icon" href="{{ asset('user/img/logo-pt.png')}}">
