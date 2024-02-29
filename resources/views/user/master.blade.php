@@ -8,6 +8,7 @@
 		<meta name="description" content="">
 		<meta name='copyright' content=''>
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
 		
 		<!-- Title -->
         <title>PT. Danau Emas Gadai Jatim- Cabang Banyuwangi</title>
@@ -294,5 +295,6 @@
 		<script src="{{ asset('user/js/bootstrap.min.js')}}"></script>
 		<!-- Main JS -->
 		<script src="{{ asset('user/js/main.js')}}"></script>
+
     </body>
 </html>
